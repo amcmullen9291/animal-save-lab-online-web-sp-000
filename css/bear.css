@@ -11,6 +11,8 @@ html {
 /* Write your solution here */
 
 @media(width-min:1196px){
-  a {left: 50px;
+  #bear {
+    position: absolute;
+    left:800px;
   }
 }
