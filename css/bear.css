@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 
 @media(width-min:1196px){
-  href{left: 50px;
+  a {left: 50px;
   }
 }
